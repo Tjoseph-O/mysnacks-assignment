@@ -3,7 +3,7 @@ package maySnacks.arrays;
 public class Reverser {
     public static void main(String[] args) {
         int[] numberInList = {50, 100, 150, 200, 250, 300};
-        System.out.println();
+
 
         for (int index = 0; index < numberInList.length; index++) {
 
